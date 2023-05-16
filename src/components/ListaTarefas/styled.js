@@ -72,3 +72,6 @@ export const LinhaHorizontal = styled.hr`
   width: 100%;
   margin: 16px;
 `
+export const ListaTarefas = styled.ul`
+color: gray;
+`
